@@ -1,8 +1,8 @@
 # Resume-Screening-with-Machine-Learning-Job-Recommendations-Parsing-Categorization
 
-# Download few files----
+Download few files---->
       file: https://drive.google.com/file/d/1GOGyEUlhvAWxS-GnXP3M8CW39o0eSNU6/view?usp=drive_link
-      dataset: 
+      dataset: https://drive.google.com/file/d/12ItyXZOdVxpRMp7mQoPgtmM_pIyqhNzY/view?usp=drive_link
 
 # Introduction:
 
